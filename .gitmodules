@@ -1,0 +1,4 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/conklech/ReefAngel-Libraries.git
+	branch = conklech
