@@ -1,45 +1,5 @@
-
-#include <Salinity.h>
 #include <ReefAngel_Features.h>
-#include <Globals.h>
-#include <RA_TS.h>
-#include <RA_TouchLCD.h>
-#include <RA_TFT.h>
-#include <RA_TS.h>
-#include <Font.h>
-#include <RA_Wifi.h>
-#include <SD.h>
-#include <SPI.h>
-#include <Ethernet.h>
-#include <EthernetDHCP.h>
-#include <PubSubClient.h>
-#include <Wire.h>
-#include <OneWire.h>
-#include <Time.h>
-#include <DS1307RTC.h>
-#include <InternalEEPROM.h>
-#include <RA_ATO.h>
-#include <LED.h>
-#include <RA_TempSensor.h>
-#include <Relay.h>
-#include <RA_PWM.h>
-#include <Timer.h>
-#include <Memory.h>
-#include <InternalEEPROM.h>
-#include <RA_Colors.h>
-#include <RA_CustomColors.h>
-#include <RA_CustomLabels.h>
-#include <RF.h>
-#include <IO.h>
-#include <ORP.h>
-#include <AI.h>
-#include <PH.h>
-#include <WaterLevel.h>
-#include <Humidity.h>
-#include <PAR.h>
-#include <DCPump.h>
 #include <ReefAngel.h>
-#include <SoftwareSerial.h>
 
 ////// Place global variable code below here
 
