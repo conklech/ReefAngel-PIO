@@ -1,10 +1,9 @@
 #include <ReefAngel_Features.h>
 #include <ReefAngel.h>
-#include <ReefAngelStar.h>
 #include <RA_TouchMenu.h>
 
 ////// Place global variable code below here
-ReefAngelStarClass myRA = ReefAngelStarClass();
+ReefAngelClass myRA = ReefAngelClass();
 ReefAngelClass *ReefAngel = &myRA;
 
 ////// Place global variable code above here
